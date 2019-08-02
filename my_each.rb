@@ -1,6 +1,6 @@
 def my_each(array)
 
-  while 
+  while
 
     yield (array[i])
 end
